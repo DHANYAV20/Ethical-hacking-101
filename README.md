@@ -1,6 +1,7 @@
 https://snyk-chat-goof.snykchallenge.io/
 
 create your own sanitization method
+
 download snyk security extension in vscode
  https://en.wikipedia.org/wiki/Banner_grabbing
 need to know how to defend it (if u r a ethical hacker) - .............. just be a breaker
